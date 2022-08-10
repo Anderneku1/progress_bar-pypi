@@ -9,7 +9,7 @@ setup(
     author_email='chukunekunwanwene@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/Anderneku1/progress_bar-pypi',
     keywords='progress bar',
     install_requires=[
           'time',
